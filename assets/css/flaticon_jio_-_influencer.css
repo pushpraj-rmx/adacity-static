@@ -1,8 +1,19 @@
 @font-face {
   font-family: "flaticon_jio_-_influencer";
-  src: url("./flaticon_jio_-_influencer.woff2?167a5fc508643dbc0781c04bf597ee76") format("woff2"), url("./flaticon_jio_-_influencer.woff?167a5fc508643dbc0781c04bf597ee76") format("woff"), url("./flaticon_jio_-_influencer.eot?167a5fc508643dbc0781c04bf597ee76#iefix") format("embedded-opentype"), url("./flaticon_jio_-_influencer.ttf?167a5fc508643dbc0781c04bf597ee76") format("truetype"), url("./flaticon_jio_-_influencer.svg?167a5fc508643dbc0781c04bf597ee76#flaticon_jio_-_influencer") format("svg");
+  src:
+    url("./flaticon_jio_-_influencer.woff2?167a5fc508643dbc0781c04bf597ee76")
+      format("woff2"),
+    url("./flaticon_jio_-_influencer.woff?167a5fc508643dbc0781c04bf597ee76")
+      format("woff"),
+    url("./flaticon_jio_-_influencer.eot?167a5fc508643dbc0781c04bf597ee76#iefix")
+      format("embedded-opentype"),
+    url("./flaticon_jio_-_influencer.ttf?167a5fc508643dbc0781c04bf597ee76")
+      format("truetype"),
+    url("./flaticon_jio_-_influencer.svg?167a5fc508643dbc0781c04bf597ee76#flaticon_jio_-_influencer")
+      format("svg");
 }
-i[class^=flaticon-]:before, i[class*=" flaticon-"]:before {
+i[class^="flaticon-"]:before,
+i[class*=" flaticon-"]:before {
   font-family: flaticon_jio_-_influencer !important;
   font-style: normal;
   font-weight: normal !important;
@@ -223,4 +234,4 @@ i[class^=flaticon-]:before, i[class*=" flaticon-"]:before {
 
 .flaticon-location-pin:before {
   content: "\f135";
-}/*# sourceMappingURL=flaticon_jio_-_influencer.css.map */
+} /*# sourceMappingURL=flaticon_jio_-_influencer.css.map */

@@ -1,8 +1,19 @@
 @font-face {
   font-family: "flaticon_ticstube";
-  src: url("./flaticon_ticstube.woff2?b55df91f9c1254094e848020d1fbe3e3") format("woff2"), url("./flaticon_ticstube.woff?b55df91f9c1254094e848020d1fbe3e3") format("woff"), url("./flaticon_ticstube.eot?b55df91f9c1254094e848020d1fbe3e3#iefix") format("embedded-opentype"), url("./flaticon_ticstube.ttf?b55df91f9c1254094e848020d1fbe3e3") format("truetype"), url("./flaticon_ticstube.svg?b55df91f9c1254094e848020d1fbe3e3#flaticon_ticstube") format("svg");
+  src:
+    url("./flaticon_ticstube.woff2?b55df91f9c1254094e848020d1fbe3e3")
+      format("woff2"),
+    url("./flaticon_ticstube.woff?b55df91f9c1254094e848020d1fbe3e3")
+      format("woff"),
+    url("./flaticon_ticstube.eot?b55df91f9c1254094e848020d1fbe3e3#iefix")
+      format("embedded-opentype"),
+    url("./flaticon_ticstube.ttf?b55df91f9c1254094e848020d1fbe3e3")
+      format("truetype"),
+    url("./flaticon_ticstube.svg?b55df91f9c1254094e848020d1fbe3e3#flaticon_ticstube")
+      format("svg");
 }
-i[class^=flaticon-]:before, i[class*=" flaticon-"]:before {
+i[class^="flaticon-"]:before,
+i[class*=" flaticon-"]:before {
   font-family: flaticon_ticstube !important;
   font-style: normal;
   font-weight: normal !important;
@@ -263,4 +274,4 @@ i[class^=flaticon-]:before, i[class*=" flaticon-"]:before {
 
 .flaticon-download-to-storage-drive:before {
   content: "\f13f";
-}/*# sourceMappingURL=flaticon_ticstube.css.map */
+} /*# sourceMappingURL=flaticon_ticstube.css.map */

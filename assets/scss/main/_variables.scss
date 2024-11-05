@@ -1,14 +1,18 @@
 :root {
-    --ttRed: #FF0000;
-    --ttLightRed: #F2EEEA;
-    --ttGray: #B5B5B5;
-    --ttGray2: #808080;
-    --black: #000;
-    --white: #fff;
-    --tt-pink: #F820A3;
-    --tt-gold: #FFA945;
-    --tt-gradient-1: linear-gradient(90deg, var(--tt-pink) 0%, var(--tt-gold) 100%);
+  --ttRed: #ff0000;
+  --ttLightRed: #f2eeea;
+  --ttGray: #b5b5b5;
+  --ttGray2: #808080;
+  --black: #000;
+  --white: #fff;
+  --tt-pink: #f820a3;
+  --tt-gold: #ffa945;
+  --tt-gradient-1: linear-gradient(
+    90deg,
+    var(--tt-pink) 0%,
+    var(--tt-gold) 100%
+  );
 
-    --font-inter: "Inter", sans-serif;
-    --plyr-color-main: var(--ttRed);
+  --font-inter: "Inter", sans-serif;
+  --plyr-color-main: var(--ttRed);
 }
